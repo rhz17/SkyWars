@@ -1,0 +1,12 @@
+##############################
+##############################
+#Database config file
+##############################
+##############################
+
+Database:
+  Host: "Database Host"
+  Port: "Database Port"
+  Database: "Database Name"
+  Username: "Database Username"
+  Password: "Database Password"

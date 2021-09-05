@@ -1,0 +1,26 @@
+##############################
+##############################
+#SkyWars config file
+##############################
+##############################
+
+skywars:
+  ##
+  ##Quantidade de mínima/máxima de jogadores por SkyWars
+  min-players: 6
+  max-players: 16
+
+  ##
+  ##Quantidade de XP ganha/perdida à cada eliminação/morte
+  level:
+    kill-xp: 11
+    death-xp: 4
+
+  ##
+  ##Localização de spawns dos jogadores/baús
+  spawns:
+    1:
+  chests:
+    1:
+  spec-spawn:
+    1:
